@@ -80,8 +80,4 @@
       <Filter>라이브러리 파일\libReaper</Filter>
     </MASM>
   </ItemGroup>
-  <ItemGroup>
-    <None Include=".gitignore" />
-    <None Include="README.md" />
-  </ItemGroup>
 </Project>

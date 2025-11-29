@@ -158,13 +158,6 @@
     <ClInclude Include="..\libReaper\rc4.h" />
     <ClInclude Include="..\libReaper\utils.h" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include=".gitignore" />
-    <None Include="README.md">
-      <SubType>
-      </SubType>
-    </None>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
     <Import Project="$(VCTargetsPath)\BuildCustomizations\masm.targets" />
